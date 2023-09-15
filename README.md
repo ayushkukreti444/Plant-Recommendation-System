@@ -1,5 +1,6 @@
 # Plant-Recommendation-System
 "Elevate your space with greenery! Our ML-driven system suggests personalized plants based on your budget, quantity, and plant type preferences, bringing nature indoors."
+
 Welcome to the Plant Recommendation System repository! This machine learning-powered system helps users discover the perfect plants for their space and budget. Whether you're looking for combo plants, fruit-bearing plants, herbs, indoor plants, or more, our recommendation system has got you covered.
 Features
 
